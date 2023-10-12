@@ -1,3 +1,3 @@
 # sksmsgmlals.github.io
 
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![♣](https://img.shields.io/badge/JavaScript-088A4B?style=for-the-badge&logo=Heemings_&logoColor=white)
