@@ -1,3 +1,3 @@
 # sksmsgmlals.github.io
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Heemings&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Heemings Github&fontSize=90" />
