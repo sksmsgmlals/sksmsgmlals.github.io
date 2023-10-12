@@ -22,5 +22,6 @@ int main()
 
 
     }
+    printf("완료");
     return 0;
 }
