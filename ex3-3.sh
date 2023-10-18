@@ -11,4 +11,5 @@ then
 	echo "과체중입니다."
 
 fi
+
 exit 0

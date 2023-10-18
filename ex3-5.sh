@@ -8,4 +8,5 @@ function_a() {
 function_a $1
 echo '프로그램을 종료합니다.'
 
+
 exit 0

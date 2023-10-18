@@ -17,6 +17,7 @@ case $a in
 	* )
 		echo "yes or no로 입력해주세요"
 		;;
+		
 esac
 
 exit 0
